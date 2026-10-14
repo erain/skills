@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reviewable PR"
+  short_description: "Build, test, and explain a change for human review"
+  default_prompt: "Use $reviewable-pr to implement this change, verify its behavior, and prepare an upstream draft PR."
